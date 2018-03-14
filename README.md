@@ -9,6 +9,7 @@ their latest 5 public repositories and links to them.
 - Github API
 - Bootswatch (Bootstrap 4)
 
+## This app is part of my 100 Days of JavaScript :zap:
 
 ![Alt Text](https://media.giphy.com/media/jVr6uNZj110hWGTHle/giphy.gif)
 
