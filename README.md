@@ -1,6 +1,6 @@
-# Github Finder
+# [Github Finder](https://lastnamearya.github.io/JavaScript-github-finder-App/)
 
-I built this app using github API. It searchs github users by their username, give us their profile and all the information. List of
+I built this [app](https://lastnamearya.github.io/JavaScript-github-finder-App/) using github API. It searchs for github users by their username, give us their profile and all the information like List of
 their latest 5 public repositories and links to them.
 
 - ES6 Classes
