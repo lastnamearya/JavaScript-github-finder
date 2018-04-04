@@ -1,4 +1,6 @@
-# [Github Finder](https://lastnamearya.github.io/JavaScript-github-finder-App/)
+# [Github Finder](https://lastnamearya.github.io/JavaScript-github-finder-App/) :zap: ~ lastnamearya
+
+[![github.jpg](https://s18.postimg.org/3te8pan49/github.jpg)](https://lastnamearya.github.io/JavaScript-github-finder-App/)
 
 I built this [app](https://lastnamearya.github.io/JavaScript-github-finder-App/) using github API. It searchs for github users by their username, give us their profile and all the information like List of
 their latest 5 public repositories and links to them.
@@ -11,7 +13,6 @@ their latest 5 public repositories and links to them.
 
 ## This app is part of my 100 Days of JavaScript :zap:
 
-![Alt Text](https://media.giphy.com/media/jVr6uNZj110hWGTHle/giphy.gif)
 
 
 
